@@ -1,2 +1,2 @@
 # TGU
-TGU train projects
+TGU training projects
